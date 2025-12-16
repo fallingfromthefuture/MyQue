@@ -1,5 +1,3 @@
-# MyQue
-
 # 🤖 Lightweight ML Robot Control System
 
 **State-of-the-art machine learning for edge robotics**
